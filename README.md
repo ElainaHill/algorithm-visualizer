@@ -1,6 +1,3 @@
-Sure! Here’s a sample README for your project, "AI-Powered Sorting Visualizer":
-
----
 
 # AI-Powered Sorting Visualizer
 
